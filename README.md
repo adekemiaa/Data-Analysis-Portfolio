@@ -2,6 +2,20 @@
 
 ### Project title: Ecommerce Sales Analysis
 
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+Data Cleaning and Preparations
+
+Exploratory Data Analysis
+
+Data Analysis
+
+Data Visualization
+
 ### Project Overview
 ---
 The Data Analysis projects aims to generate insight into the sales performance of the E commerce project over the past years. By analyzing the various parameter in the data received we seek to gather enough insight to make reasonable decisions which then enable us to tell compelling stories around our data from the insight gotten and to know the best performance from our data.
@@ -21,7 +35,7 @@ The primary source of Data used here is Data Sale.csv and this is an open source
 - Github for Portfolio building
 - Microsoft Power BI for Data Cleaning, Analysis and Visualization
 
-### Data Cleaning and Preparation
+### Data Cleaning and Preparations
 ---
 In the initial phase of Data Cleaning and preparations, we perform the following 
 action;
@@ -44,3 +58,18 @@ This is where we include some basic lines of code or queries or even some of the
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
+
+### Data Visualization
+
+![revenuebyregion](https://github.com/user-attachments/assets/0fefd60b-51d1-48a5-8752-f79c596bc56c)
+
+![Unitsoldbyregion](https://github.com/user-attachments/assets/79b6c1b5-d03a-43c2-a0d5-8728861f0eaf)
+
+
+👍
+😄
+💻
+
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Table 1|Table 2|Table 3|
