@@ -2,6 +2,8 @@
 
 ### Project title: Ecommerce Sales Analysis
 
+### Table of Contents
+
 [Project Overview](#project-overview)
 
 [Data Sources](#data-sources)
